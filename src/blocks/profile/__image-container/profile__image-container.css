@@ -1,0 +1,23 @@
+.profile__image-container {
+  display: flex;
+  border-radius: 50%;
+  height: 127.5px;
+  width: 127.5px;
+  display: flex;
+  background-color: grey;
+  background-size: cover;
+  background-position: center;
+  background-image: url('https://i.imgur.com/pyVqk3o.jpg');
+}
+
+.profile__image-container:hover {
+  cursor: pointer;
+}
+
+.profile__image-container:hover .profile__edit-avatar-button {
+  display: flex;
+}
+
+.profile__image-container:hover .profile__edit-avatar-button-container {
+  background-color: rgba(0, 0, 0, 0.5);
+}

@@ -1,0 +1,19 @@
+.popup__error {
+    margin-top: 0;
+    color: red;
+    font-size: 12px;
+    line-height: 15px;
+    visibility: hidden;
+}
+
+.popup__error_visible {
+    visibility: visible;
+}
+
+.popup__input_invalid {
+    border-bottom: 1px solid red;
+}
+
+.popup__input_valid {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}

@@ -1,0 +1,26 @@
+.popup__image {
+    object-fit: contain;
+    max-width: 75vw;
+    max-height: 75vh;
+    border-radius: 15px;
+}
+
+.popup__image-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.popup__image-title {
+    margin: 0;
+    padding: 10px;
+    margin-top: 10px;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 15px;
+    color: #8a8a8a;
+    background-color: #ffffff;
+    border-radius: 30px;
+}

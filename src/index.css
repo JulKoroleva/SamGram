@@ -1,0 +1,19 @@
+@import url(./fonts/inter/inter.css);
+@import url(./vendor/normalize.css);
+
+@import url(./blocks/page/page.css);
+@import url(./blocks/header/header.css);
+@import url(./blocks/profile/profile.css);
+@import url(./blocks/elements/elements.css);
+
+@import url(./blocks/additor/additor.css);
+@import url(./blocks/popup/popup.css);
+@import url(./blocks/footer/footer.css);
+
+body {
+    background: rgb(0, 0, 0);
+    background: -moz-linear-gradient(35deg, rgba(62, 61, 66, 0.8044467787114846) 0%, rgba(71, 71, 107, 0.7904411764705882) 24%, rgba(107, 69, 107, 0.8436624649859944) 50%, rgba(92, 119, 138, 0.9220938375350141) 76%, rgba(73, 92, 117, 0.8828781512605042) 100%);
+    background: -webkit-linear-gradient(35deg, rgba(62, 61, 66, 0.8044467787114846) 0%, rgba(71, 71, 107, 0.7904411764705882) 24%, rgba(107, 69, 107, 0.8436624649859944) 50%, rgba(92, 119, 138, 0.9220938375350141) 76%, rgba(73, 92, 117, 0.8828781512605042) 100%);
+    background: linear-gradient(35deg, rgba(62, 61, 66, 0.8044467787114846) 0%, rgba(71, 71, 107, 0.7904411764705882) 24%, rgba(107, 69, 107, 0.8436624649859944) 50%, rgba(92, 119, 138, 0.9220938375350141) 76%, rgba(73, 92, 117, 0.8828781512605042) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3e3d42", endColorstr="#495c75", GradientType=1);
+}

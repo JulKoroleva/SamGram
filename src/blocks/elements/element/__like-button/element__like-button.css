@@ -1,0 +1,32 @@
+.element__like-button {
+  background-color: transparent;
+  margin-right: 21px;
+  border: none;
+  height: 19px;
+  width: 22px;
+  transition: .2s;
+  outline: none;
+  background-image: url(/src/images/heart.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+
+}
+
+.element__like-button:hover {
+  opacity: 0.5;
+  cursor: pointer
+}
+
+.element__like-button-heart_active {
+  background-color: transparent;
+  margin-right: 21px;
+  border: none;
+  height: 18.13px;
+  height: 19px;
+  width: 22px;
+  transition: .2s;
+  outline: none;
+  background-image: url(/src/images/heartBlack.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
