@@ -53,116 +53,116 @@ export const profileAvatar = document.querySelector('.profile__image-container')
 export const initialCards = [
     {
       name: 'Я дома ❤️',
-      link: 'https://i.imgur.com/7sgAP5O.jpg'
+      link: 'https://i.postimg.cc/9MtjTkG9/7sgAP5O.jpg'
     },
     {
       name: 'Первый раз в садах!',
-      link: 'https://i.imgur.com/GfBJ26w.jpg'
+      link: 'https://i.postimg.cc/TYPXLChy/GfBJ26w.jpg'
     },
     {
       name: 'Красота 😍',
-      link: 'https://i.imgur.com/c2wSJYl.jpg'
+      link: 'https://i.postimg.cc/Kj0Spgpv/c2wSJYl.jpg'
     },
     {
       name: 'Сколько тебе лет? Мне п... один лет...год ',
-      link: 'https://i.imgur.com/wAcZWbL.jpg'
+      link: 'https://i.postimg.cc/WpWHKjb3/wAcZWbL.jpg'
     },
     {
       name: 'Ковер 😵',
-      link: 'https://i.imgur.com/zqeCLNm.jpg'
+      link: 'https://i.postimg.cc/BZp0ndZ9/zqeCLNm.jpg'
     },
     {
       name: '🦇',
-      link: 'https://i.imgur.com/oF0fhOQ.jpg'
+      link: 'https://i.postimg.cc/pX1MDzns/oF0fhOQ.jpg'
     },
     {
       name: 'HB',
-      link: 'https://i.imgur.com/U8PNrQl.jpg'
+      link: 'https://i.postimg.cc/YCGK806M/U8PNrQl.jpg'
     },
     {
       name: 'Ищу подарки...',
-      link: 'https://i.imgur.com/uZGZDvH.jpg'
+      link: 'https://i.postimg.cc/85G21bqz/uZGZDvH.jpg'
     },
     {
       name: '🎂',
-      link: 'https://i.imgur.com/Rm4qy15.jpg'
+      link: 'https://i.postimg.cc/0yTg4vnm/Rm4qy15.jpg'
     },
     {
       name: ':(',
-      link: 'https://i.imgur.com/MFoe60f.jpg'
+      link: 'https://i.postimg.cc/hG1C0R5K/MFoe60f.jpg'
     },
     {
       name: '❤️❤️❤️',
-      link: 'https://i.imgur.com/weHPmB8.jpg'
+      link: 'https://i.postimg.cc/9f5SppXY/weHPmB8.jpg'
     },
     {
       name: '... --- ... ',
-      link: 'https://i.imgur.com/4lXc5Ed.jpg'
+      link: 'https://i.postimg.cc/XqHmk6Xr/4lXc5Ed.jpg'
     },
     {
       name: 'Кайфушечки',
-      link: 'https://i.imgur.com/jWw8sqo.jpg'
+      link: 'https://i.postimg.cc/8cpgbbH0/jWw8sqo.jpg'
     },
     {
       name: 'А вообще у меня много талантов!',
-      link: 'https://i.imgur.com/6Qhqocf.jpg'
+      link: 'https://i.postimg.cc/m2k02k6C/6Qhqocf.jpg'
     },
     {
       name: '🌸',
-      link: 'https://i.imgur.com/5FIrHhd.jpg'
+      link: 'https://i.postimg.cc/vBGKRZV1/5FIrHhd.jpg'
     },
     {
       name: 'Ку-ку',
-      link: 'https://i.imgur.com/1fA1F7S.jpg'
+      link: 'https://i.postimg.cc/W37Qtkv6/1fA1F7S.jpg'
     },
     {
       name: 'В бабушкиных розочках',
-      link: 'https://i.imgur.com/UeqzZIp.jpg'
+      link: 'https://i.postimg.cc/0jQHQXZP/UeqzZIp.jpg'
     },
     {
       name: 'Крутость этого фото зашкаливает',
-      link: 'https://i.imgur.com/q6hyAhG.jpg'
+      link: 'https://i.postimg.cc/15bYmHF1/q6hyAhG.jpg'
     },
     {
       name: 'Ронни',
-      link: 'https://i.imgur.com/TBgcPxu.jpgg'
+      link: 'https://i.postimg.cc/sDLbBzt8/TBgcPxu.jpg'
     },
     {
       name: 'Приветики!',
-      link: 'https://i.imgur.com/56c0742.jpg'
+      link: 'https://i.postimg.cc/85kZKX2M/56c0742.jpg'
     },
     {
       name: 'L`académie de magie Beauxbâtons',
-      link: 'https://i.imgur.com/fkP8VhZ.jpg'
+      link: 'https://i.postimg.cc/rmgPq21f/fkP8VhZ.jpg'
     },
     {
       name: '🧡',
-      link: 'https://i.imgur.com/vkKHFv1.jpg'
+      link: 'https://i.postimg.cc/nzd06Yx5/vkKHFv1.jpg'
     },
     {
       name: 'Как то так',
-      link: 'https://i.imgur.com/EOcpXAi.jpg'
+      link: 'https://i.postimg.cc/GtVzpLHx/EOcpXAi.jpg'
     },
     {
       name: '👅',
-      link: 'https://i.imgur.com/DM5Kntz.jpg'
+      link: 'https://i.postimg.cc/8cjtDJPC/DM5Kntz.jpg'
     },
     ,
     {
       name: 'white always',
-      link: 'https://i.imgur.com/SBjYUo9.jpg'
+      link: 'https://i.postimg.cc/SKhT8xVZ/SBjYUo9.jpg'
     },
     {
       name: 'Ронни в гости приехал!',
-      link: 'https://i.imgur.com/cpvfPk9.jpg'
+      link: 'https://i.postimg.cc/nL4WwDCb/cpvfPk9.jpg'
     },
     {
       name: 'Совместное фото',
-      link: 'https://i.imgur.com/HlvLNpV.jpg'
+      link: 'https://i.postimg.cc/fR0pmFsb/HlvLNpV.jpg'
     },
     {
       name: 'Ну какава красота',
-      link: 'https://i.imgur.com/pyVqk3o.jpg'
+      link: 'https://i.postimg.cc/fRXqJ97t/pyVqk3o.jpg'
     },
     
   ];

@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SamGram</title>
-
+    <link rel="stylesheet" type="text/css" href="index.css">
 </head>
 
 <body>
@@ -126,7 +126,7 @@
     <template id="element" class="card-template">
         <div class="element">
             <div class="element__image_size">
-                <img class="element__image" loading="lazy">
+                <img class="element__image lazy blur">
             </div>
             <button class="element__delete-button" type="button">
                 <img src="<%=require('./images/Trash.svg')%>" alt="Удалить"></button>
@@ -183,6 +183,7 @@
     </div>
 
     <script type="module" src="index.js"></script>
+    
 
 </body>
 

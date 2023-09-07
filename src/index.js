@@ -197,3 +197,12 @@ avatarSaveButton.addEventListener('click', (evt) => {
   editAvatarForm.closePopup();
 });
 
+
+const lazyImages = document.querySelectorAll('.lazy');
+
+lazyImages.forEach((lazyImage) => {
+  lazyImage.addEventListener('load', () => {
+    lazyImage.classList.remove('blur'); 
+  });
+});
+
