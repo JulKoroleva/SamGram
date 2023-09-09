@@ -138,7 +138,12 @@ function card(item) {
   const elem = card_object.getElement();
   console.log('elem = ', elem);
   cardList.addItem(elem);
-  
+  const lazyImagesInCard = elem.querySelectorAll('.lazy');
+  lazyImagesInCard.forEach((lazyImage) => {
+    lazyImage.addEventListener('load', () => {
+      lazyImage.classList.remove('blur'); // Удалить класс размытия
+    });
+  });
 }
 
 
@@ -169,6 +174,7 @@ const editAvatarForm = new PopupWithForm(
    
   }}
 ) 
+
 editAvatarForm.setEventListeners(); 
 
 
@@ -205,4 +211,5 @@ lazyImages.forEach((lazyImage) => {
     lazyImage.classList.remove('blur'); 
   });
 });
+
 

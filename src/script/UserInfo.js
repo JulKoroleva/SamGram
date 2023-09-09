@@ -21,6 +21,6 @@ export class UserInfo {
   } 
 
   setUseAvatar(item) { 
-    this._profileAvatar.style.backgroundImage = `url(${item.avatar})`;
+    this._profileAvatar.src = item.avatar;
   } 
   } 

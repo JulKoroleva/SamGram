@@ -43,7 +43,7 @@ export const imageCloseButton        = imagePopup.querySelector    ('.popup__clo
 export const avatarEditPopup = document.querySelector('.popup_type_edit-avatar'); 
 export const editAvatar = document.querySelector('.profile__edit-avatar-button-container'); 
 export const editAvatarSaveButton = avatarEditPopup.querySelector('.popup__submit-button') 
-export const profileAvatar = document.querySelector('.profile__image-container'); 
+export const profileAvatar = document.querySelector('.profile__image'); 
 
 
 
