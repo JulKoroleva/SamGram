@@ -9,6 +9,7 @@
     left: 0px;
     background-color: rgba(0, 0, 0, 0.5);
     transition: .2s;
+    z-index: 6;
 }
 
 .popup_opened {
