@@ -7,6 +7,10 @@
 
 Welcome to SamGram! This is a simple example of a user's personal webpage designed for sharing and showcasing photographs. You can customize this page by changing your name, personal information, and updating your avatar. The page features a stunning photo gallery, each image complemented by a short description. Photos are effortlessly added using direct links to online images. Please note that since this project doesn't utilize an API, all changes and uploaded data will revert to default upon page refresh.
 
+<div align="center">
+<a href="https://julkoroleva.github.io/SamGram/index.html" target="_blank" style="text-decoration:none;" >VIEW THE RUNNING APP</a>
+</div>
+
 ## Features
 - **Personalization**: Customize your page to reflect your identity. Edit your name, add a bio, and update your avatar image.
 
